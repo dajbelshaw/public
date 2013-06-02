@@ -8,9 +8,16 @@ Goals
 * Buy my wife flowers at least once per month.
 
 "I am a caring father"
+----------------
 * Listen to my children without interrupting them.
 * Ask my children how they feel regularly (at least twice per day).
 * Do not raise my voice or smack my children unless as a last resort.
+
+"I am an agreeable colleague"
+----------------
+* Assume that my colleagues have the best of intentions.
+* Default to 'Yes, and...'
+* Use smileys and emoticons to convey emotions in virtual interactions.
 
 "I am a runner"
 ---------------
