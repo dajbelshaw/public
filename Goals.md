@@ -1,34 +1,20 @@
 Goals
 =======================================
-1. identify with supporting identity
-2. 5 or fewer stretch identities
-3. 4 or fewer key results per stretch identity
 
-
-"I am proactive"
+"I am a loving husband"
 ----------------
-* At least 5 days a week, start my day proactively by doing at least one of these 6 things before looking at my phone: drink a glass of water, stretch, do pushups, do lunges, do plank, review my [Look, Look, Look](http://www.haikudeck.com/p/u9qVHcR7Ts/look-look-look) haiku deck.
-* Rabbit rabbit on the first of every month (review and revise my goals, beliefs, and manifesto; restart any lapsed habits)
+* Tell my wife I love her often (at least once per day).
+* Every day do at least one small thing to show my wife I love her.
+* Buy my wife flowers at least once per month.
+
+"I am a caring father"
+* Listen to my children without interrupting them.
+* Ask my children how they feel regularly (at least twice per day).
+* Do not raise my voice or smack my children unless as a last resort.
 
 "I am a runner"
 ---------------
-* Run once a week
-* Run a marathon before Oct 15th, 2013
+* Run at least twice per week.
+* Run a half-marathon before 1 June 2014.
 
-"I am a quantified selfer"
---------------------------
-* Correlate objective and subjective life
-* Update stats.numbers every day at 11am
-
-"I am an amateur behavior change fanatic"
------------------------------------------
-* Answer the question, "How do we change ourselves?"
-* Write blog post on identity chaining
-* Write another blog post about a/b fit
-
-"I am a healthy person"
------------------------
-* Weigh 161lbs
-* Track my weight at least once a week
-* At least 1 half-plants meal a day
-* Eat slow, stop eating before food is all gone
+[more to come]
