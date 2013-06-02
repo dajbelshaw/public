@@ -3,5 +3,4 @@
 
 My public self.
 
-Feel free to fork this and make it your own public self.
-
+This is a fork of Buster Benson's public repository.
