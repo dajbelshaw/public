@@ -1,3 +1,5 @@
+Last export: 19th December 2014
+
 # How to use your Twitter archive
 
 The simplest way to use your Twitter archive is through the archive browser interface provided in this file. Just double-click `index.html` from the root folder and you can browse your entire history of Tweets from inside your browser.

@@ -1,11 +1,11 @@
 var user_details =  {
-  "expanded_url" : "http://wayoftheduck.com",
-  "screen_name" : "buster",
-  "location" : "Newly in SF",
-  "url" : "http://t.co/nEb6UnFCgE",
-  "full_name" : "Buster",
-  "bio" : "Helping build things at @Twitter, aspiring marathoner. http://t.co/kO4I77Bqss",
-  "id" : "2185",
-  "created_at" : "Tue Jul 18 04:35:07 +0000 2006",
-  "display_url" : "wayoftheduck.com"
+  "expanded_url" : "http:\/\/bit.ly\/BelshawBlackOps14",
+  "screen_name" : "dajbelshaw",
+  "location" : "In a cave",
+  "url" : "http:\/\/t.co\/robxB6lobk",
+  "full_name" : "Doug Belshaw",
+  "bio" : "Currently on a personal digital hiatus until January 2015",
+  "id" : "764365",
+  "created_at" : "2007-02-11 10:23:13 +0000",
+  "display_url" : "bit.ly\/BelshawBlackOp\u2026"
 }
