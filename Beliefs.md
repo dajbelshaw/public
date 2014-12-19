@@ -7,5 +7,6 @@
 - Pragmatism is a useful way of orienting oneself to the external world.
 - Society creates crimes for 'criminals' to commit, but this does not always absolve the individual from blame.
 - Some things are 'absolutely' (morally) wrong because they are do not promote the harmony of the community, nation or entire human race.
+- The best way to achieve goals is not by having an inflexible plan, but by having strong values and guiding principles *(obliquity)*.
 
 [more to come]
