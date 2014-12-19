@@ -19,9 +19,8 @@ Goals
 * Default to 'Yes, and...'
 * Use smileys and emoticons to convey emotions in virtual interactions.
 
-"I am a runner"
+"I am healthy"
 ---------------
-* Run at least twice per week.
-* Run a half-marathon before 1 June 2014.
+* Exercise six times a week
 
 [more to come]
